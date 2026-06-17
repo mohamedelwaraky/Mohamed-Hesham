@@ -73,7 +73,7 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into actio
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 📈 Sales Analysis Dashboard
 - Revenue Analysis
