@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohamed Hesham
 
-### 📊 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+### 📊 Data Analyst
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-hesham-8379062aa">
@@ -20,9 +20,7 @@
 
 I am a passionate **Data Analyst** dedicated to transforming raw data into actionable insights that support business growth and strategic decision-making.
 
-🎓 Graduate of Cairo University – Faculty of Commerce (English Section)
-
-💼 Currently working as a **Data Analyst at Solarex**
+🎓 Graduate from Cairo University – Faculty of Commerce (English Section)
 
 📊 Experienced in:
 - Sales Analytics
@@ -112,17 +110,6 @@ I am a passionate **Data Analyst** dedicated to transforming raw data into actio
 - Customer Behavior Analysis
 - Retention Insights
 
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Python for Data Analysis
-- Data Engineering Fundamentals
-- Machine Learning Basics
-- Business Intelligence Best Practices
-
----
 
 ## 📫 Connect With Me
 
